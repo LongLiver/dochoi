@@ -184,11 +184,11 @@ session_start();
         
                 <?php
                 $servername = "3.132.234.157";
-$username = "longnd";
-$password = "long123";
-$database = "salah";
+                $username = "long1912";
+                $password = "long123";
+                $database = "konate";
 //Kết nối theo Mysqli procedural
-$connect = mysqli_connect($servername,$username,$password,$database);
+                $connect = mysqli_connect($servername,$username,$password,$database);
                 if(!$connect){
                         echo "Failure Connect";
                     }
@@ -240,9 +240,9 @@ $connect = mysqli_connect($servername,$username,$password,$database);
     </div>
 <?php 
 $servername = "3.132.234.157";
-$username = "longnd";
+$username = "long1912";
 $password = "long123";
-$database = "salah";
+$database = "konate";
 //Kết nối theo Mysqli procedural
 $connect = mysqli_connect($servername,$username,$password,$database);
 if($connect){
