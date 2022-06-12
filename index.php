@@ -192,15 +192,14 @@ session_start();
                 if(!$connect){
                         echo "Failure Connect";
                     }
-                $sql ="SELECT * FROM Product";
+                $sql ="SELECT * FROM product";
                 $result = mysqli_query($connect,$sql);
                 while($row = mysqli_fetch_array($result)) 
                     {
-                        //lấy ra từng dòng dl truy vấn được và hiển thị
-                        //$row['Product_ID'];
-                        //$row['Product_Name'];
-                        //$row['Product_Price'];
-                        //$row['Product_Image'];
+                       $row['Product_ID']=$row['Product_ID'];
+                       $row['Product_Name']=$row['Product_Name'];
+                       $row['Product_Price']=$row['Product_Price'];
+                       $row['Product_Image']=$row['Product_Image'];
                 ?>    
                 <div class="single-product">           
                 <h3><?php echo $row['Product_Name'] ?></h3>
