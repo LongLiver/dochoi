@@ -9,7 +9,7 @@ session_start();
     <title></title>
         <style  type="text/css">
         .qq{
-            background-image:url(https://thegioidennhay.com/wp-content/uploads/2020/01/%C4%90%C3%A8n-trang-tr%C3%AD-Noel-t%E1%BA%BFt.jpg);
+            background-image:url(https://pdp.edu.vn/wp-content/uploads/2021/05/hinh-nen-mua-dong-co-tuyet-trang-phu-day.jpg);
             margin:auto;
         }
         .wrapper {
@@ -20,7 +20,7 @@ session_start();
         .header {
             height: 500px;
             border: 3px solid dashed;
-            background-color: blueviolet;
+            background-color: white;
         }
         .header img{
             float:left;
@@ -34,7 +34,7 @@ session_start();
 
         .menu {
             height: 60px;
-            background-color: pink;
+            background-color: white;
         }
 
             .menu ul li {
@@ -149,7 +149,7 @@ session_start();
                 <input type="submit" name="search" value="search" />
             </form>
             <div class="img header">
-                <img style=" height: 400px; width: 1200px;"   src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4JJ6SqQwz-vNadklDwFiIwKmJGY7SfJD_OA&usqp=CAU />
+                <img style=" height: 400px; width: 1200px;"   src="https://truongquochoc.com/wp-content/uploads/2020/10/30-hinh-anh-gau-bong-cuc-cute-9.jpg" />
             </div>
         </div>
         
@@ -166,7 +166,7 @@ session_start();
                 <li><a href="http://localhost/php/Contact.php"target="_blank">   Liên hệ </a></li>
                 <li><a href="http://localhost/php/login.php"target="_blank"> Đăng nhập</a></li>
                 <li><a href="http://localhost/php/REGISTER.php"target="_blank"> Đăng ký </a></li>
-                <li><select style="background-color:blueviolet;color: black;border-left: none;border-right: none;border-top: none;border-bottom: 2px solid darkred;width: 130px;">
+                <li><select style="background-color:white;color: black;border-left: none;border-right: none;border-top: none;border-bottom: 2px solid darkred;width: 130px;">
     <option>Các loại thú bông</option>
     <option>Mèo</option>
     <option>Thỏ</option>
