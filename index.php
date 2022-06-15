@@ -228,7 +228,6 @@ session_start();
                     <option>Hải Phòng</option>
                     <option>Đà Nẵng</option>
                     <option>Cần Thơ</option>
-                    <option>Thanh Hóa</option>
                     <option>Hà Tĩnh</option>
                 </select>
                 <p style="font-family:'Comic Sans MS';font-size: 18px;">Thông tin về ưu đãi sẽ được gửi trong 24h</p>
